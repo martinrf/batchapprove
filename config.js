@@ -1,4 +1,4 @@
 module.exports = {
     jwt: "",
-    api: "https://dev-new-api.findhirekeep.com"
+    api: "https://stg-new-api.findhirekeep.com"
 }
