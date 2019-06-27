@@ -14,4 +14,3 @@ When you are ready to run use
 
     npm install
     node main.js
-    
