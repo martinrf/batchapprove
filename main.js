@@ -5,7 +5,7 @@ const config = require("./config")
 /*
 * You can use this query to get the raw data for batchlist.txt you will have to cleanup it tho
 * db.getCollection('items').find({ accountId: ObjectId("5c9bf1cd4ecd5700100f6a13"), type : "GGUM" }, {_id:1})
-* db.getCollection('item-histories').find({ "item.accountId": ObjectId("5c9bf1cd4ecd5700100f6a13"), "item.type" : "GGUM" }, {_id:1})
+* db.getCollection('item-histories').find({ "item.accountId": ObjectId("5d0a3029b94ffe5469e11f28"), "item.type" : "3PL" }, {_id:1})
 * */
 
 let failsReview = [];

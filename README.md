@@ -13,5 +13,5 @@ You will have to clean up the results from robomongo, column edition on notepad+
 When you are ready to run use 
 
     npm install
-    npm run start
+    node main.js
     
